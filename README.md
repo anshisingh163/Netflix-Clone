@@ -1,7 +1,7 @@
 # Netflix Clone
 
 Clone of the Netflix website using React.
-## Live Demo:
+## Live Demo: https://netflix-clone-snowy-eta.vercel.app/
 ## What it is
 
 A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepage. Built with:
